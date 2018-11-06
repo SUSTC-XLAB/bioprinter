@@ -27,6 +27,6 @@
 Releases        
 项目发展历程
 ## 参考资料
-reference      
-learning
+reference https://github.com/SUSTC-XLAB/bioprinter/wiki/reference      
+learning https://github.com/SUSTC-XLAB/bioprinter/wiki/learning   
 

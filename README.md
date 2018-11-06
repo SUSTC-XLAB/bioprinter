@@ -21,7 +21,7 @@
 # 项目组成员
   陈乐然 348304599@qq.com   ， 项目分工:协助维护 ，【2018/10/28时间-至今】
 ## 联系
-[NKXLAB](https://github.com/NKXLAB)方科技大学-XLAB]  QQ群：532614505
+[NKXLAB](https://github.com/NKXLAB) [南方科技大学-XLAB]  QQ群：532614505
 
 ## Change log
 Releases        
